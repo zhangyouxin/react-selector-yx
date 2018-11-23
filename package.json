@@ -1,0 +1,15 @@
+{
+  "name": "react-selector-yx",
+  "version": "0.0.0",
+  "description": "A selector component to use in React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "react",
+    "selector"
+  ],
+  "author": "zhangyouxin",
+  "license": "MIT"
+}
